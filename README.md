@@ -10,7 +10,7 @@
 ## Setup
 ```bash
 git clone <repo>
-cd financial-wellness-app
+cd mosAIc-GigWise
 ```
 
 Get your hugging face token.
