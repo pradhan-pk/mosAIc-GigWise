@@ -1,4 +1,4 @@
-# Gig Workers' Financial Wellness App
+# GigWise: Gig Workers' Financial Wellness App
 
 
 ## Features
